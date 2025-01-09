@@ -5,7 +5,8 @@
 <p align="center">
 <a href="https://linkedin.com/in/mishagolikov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mishagolikov" height="30" width="40" /></a>
 </p>
-<a href="https://github.com/mishagolikov/mishagolikov/blob/55e1b4827d1ae7a2a4daa101c20ecafe48600ff3/MGolikov_2025_Software_Engineer.pdf">Resume Link</a>
+
+[![Resume](https://img.icons8.com/ios/100/resume.png)](https://raw.githubusercontent.com/mishagolikov/mishagolikov/main/MGolikov_2025_Software_Engineer.pdf)
 
 <h4 align="center">Back-End</h4>
 
