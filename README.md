@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Misha Golikov</h1>
+<h1 align="center">Misha Golikov</h1>
 <h3 align="center">A full-stack software engineer from Philadelphia, PA</h3>
 
 <h3 align="center">Connect with me:</h3>
