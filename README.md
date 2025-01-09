@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Misha Golikov</h1>
 <h3 align="center">A full-stack software engineer from Philadelphia, PA</h3>
 
-- 🔭 I’m currently working at **Perficient**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mishagolikov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mishagolikov" height="30" width="40" /></a>
