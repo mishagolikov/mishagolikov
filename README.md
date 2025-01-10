@@ -5,8 +5,9 @@
 <p align="center">
 <a href="https://linkedin.com/in/mishagolikov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mishagolikov" height="30" width="40" /></a>
 </p>
-
-[![Resume](https://img.icons8.com/ios/100/resume.png)](https://raw.githubusercontent.com/mishagolikov/mishagolikov/main/MGolikov_2025_Software_Engineer.pdf)
+<a href="https://raw.githubusercontent.com/mishagolikov/mishagolikov/main/MGolikov_2025_Software_Engineer.pdf" target="_blank">
+  <img align="center" src="https://img.icons8.com/ios/100/FFFFFF/resume.png" alt="resume" height="100" width="100" />
+</a>
 
 <h4 align="center">Back-End</h4>
 
