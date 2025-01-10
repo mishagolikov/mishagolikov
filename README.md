@@ -3,11 +3,12 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/mishagolikov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mishagolikov" height="30" width="40" /></a>
-</p>
+<a href="https://linkedin.com/in/mishagolikov" target="blank"><img align="center" src="https://img.icons8.com/ios-filled/100/FFFFFF/linkedin.png" alt="linkedin" height="100" width="100" /></a>
+
 <a href="https://raw.githubusercontent.com/mishagolikov/mishagolikov/main/MGolikov_2025_Software_Engineer.pdf" target="_blank">
   <img align="center" src="https://img.icons8.com/ios/100/FFFFFF/resume.png" alt="resume" height="100" width="100" />
 </a>
+</p>
 
 <h4 align="center">Back-End</h4>
 
